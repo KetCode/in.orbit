@@ -1,0 +1,6 @@
+npm init
+npm run dev
+npx drizzle-kit generate - gera as migrations
+npx drizzle-kit migrate - realiza as migrations no banco
+npx drizzle-kit studio - ver banco de dados
+npm run seed - gera valores provisorios no banco
